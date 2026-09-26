@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Gopal Krishna 👋
 
-<!--
-**Gopal-42/Gopal-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | SQL | Power BI | Excel
 
-Here are some ideas to get you started:
+B.Tech CSE student focused on turning raw data into
+meaningful business insights through SQL, Power BI and Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- SQL / MySQL
+- Power BI
+- DAX
+- Microsoft Excel
+- Power Query
+- Data Cleaning
+- Data Visualization
+- Business Analysis
+
+## 📊 Featured Projects
+
+### 1. Amazon E-Commerce Sales & Operations Analysis
+Excel + Power BI
+→ Sales, fulfilment, cancellation and promotion analysis
+
+### 2. Customer Churn & Retention Analysis
+MySQL + SQL + Power BI + DAX
+→ Churn segmentation, customer behaviour and retention analysis
+
+## 🎯 Currently
+
+- Building Data Analytics projects
+- Improving SQL & Power BI
+- Preparing for Data Analyst opportunities
+
+## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/gopal-krishna-217b80176)
