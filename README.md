@@ -1,78 +1,68 @@
- <div align="center">
 
-<img src="hero.svg?v=2" width="100%" alt="Gopal Krishna — Data Analyst Portfolio"/>
+<div align="center">
 
+<!-- HERO -->
+<img src="./hero.svg?v=2" alt="Gopal Krishna — Data Analyst" width="100%"/>
 
-<p align="center">
-  <img src="./Portrait.png" width="280" alt="Gopal's anime-style developer portrait with laptop"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="./waving.gif" width="280" alt="Gopal waving at the camera" />
-</p>
+<!-- WAVING ANIMATION -->
+<img src="./waving.gif" alt="Gopal waving at the camera" width="280"/>
 
+<br/><br/>
 
-# Gopal Krishna
+<!-- ABOUT + HOBBIES -->
+<img src="./about-life.svg?v=2" alt="What I build and life beyond data" width="100%"/>
 
-### Data Analyst | Excel • SQL • Power BI
+<br/><br/>
 
-📍 Agra, Uttar Pradesh, India · 🎓 Student
+<!-- TECH STACK -->
+<img src="./stack.svg?v=2" alt="Excel, SQL, Power BI and Python tech stack" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gopal-krishna-217b80176)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:gopalkrishnabietian@gmail.com)
+<br/><br/>
+
+<!-- DEVELOPER ID + DASHBOARD -->
+<img src="./id-dashboard.svg?v=2" alt="Gopal's developer ID and analytics dashboard" width="100%"/>
 
 </div>
 
----
+## 📊 Featured Project
 
-<img src="about-life.svg?v=2" width="100%" alt="About me and interests"/>
+| Project | Description | Tools |
+|:---|:---|:---|
+| **Amazon Sales Analysis Dashboard** | Analyzed sales, order status, promotions and B2B vs B2C performance; created an interactive dashboard. | Excel, SQL, Power BI |
 
-<p align="center">
-  <img src="./Pointing.png" width="280" alt="Gopal's anime-style developer character pointing"/>
-</p>
+<div align="center">
 
-## About Me
+<br/>
 
-I'm Gopal Krishna, a student developing practical data analysis and visualization skills. I enjoy exploring technology, learning new tools, and turning data into useful insights.
+## 🌃 My 3D Contribution Graph
 
----
+*Every contribution adds another piece to my GitHub journey.*
 
-<img src="stack.svg?v=2" width="100%" alt="Technology toolkit"/>
+<img src="./profile-3d-contrib/profile-night-view.svg?v=2" alt="3D GitHub contribution graph" width="100%"/>
 
-## Skills
+<br/><br/>
 
-- **Microsoft Excel**
-- **SQL**
-- **Power BI**
-- **Python**
+<!-- CONTACT -->
+<img src="./connect.svg?v=2" alt="Connect with Gopal Krishna" width="100%"/>
 
----
+<a href="https://github.com/gopal-42">
+  <img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/>
+</a>
+<a href="mailto:gopalkrishnabietian@gmail.com">
+  <img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/gopal-krishna-217b80176">
+  <img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0d0e16" alt="LinkedIn"/>
+</a>
 
-## Featured Project
+<br/><br/>
 
-<img src="id-dashboard.svg?v=2" width="100%" alt="Analyst dashboard"/>
+<img src="https://komarev.com/ghpvc/?username=gopal-42&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-### Amazon Sales Analysis Dashboard
+<br/><br/>
 
-An exploratory sales analytics project focused on sales performance, order status, product categories, and business insights.
+**Always learning. Always analyzing. Always growing.** 🚀
 
-*Add your project repository link here when it is ready.*
-
----
-
-## Let's Connect
-
-<img src="connect.svg?v=2" width="100%" alt="Connect with Gopal Krishna"/>
-
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/gopal-krishna-217b80176)
-- **Email:** [gopalkrishnabietian@gmail.com](mailto:gopalkrishnabietian@gmail.com)
-
----
-
-## 🌆 My 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph"/>
-</p>
-
-<sub>Portfolio built with Markdown and SVG. GitHub may restrict certain SVG animations. Profile statistics will be added only when verified.</sub>
+</div>
