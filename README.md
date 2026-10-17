@@ -2,6 +2,12 @@
 
 <img src="hero.svg?v=2" width="100%" alt="Gopal Krishna — Data Analyst Portfolio"/>
 
+
+<p align="center">
+  <img src="./portrait.png" width="280" alt="Gopal's anime-style developer portrait with laptop"/>
+</p>
+
+
 # Gopal Krishna
 
 ### Data Analyst | Excel • SQL • Power BI
