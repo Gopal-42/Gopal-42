@@ -55,4 +55,10 @@ An exploratory sales analytics project focused on sales performance, order statu
 
 ---
 
+## 🌆 My 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph"/>
+</p>
+
 <sub>Portfolio built with Markdown and SVG. GitHub may restrict certain SVG animations. Profile statistics will be added only when verified.</sub>
