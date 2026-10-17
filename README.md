@@ -17,6 +17,10 @@
 
 <img src="about-life.svg?v=2" width="100%" alt="About me and interests"/>
 
+<p align="center">
+  <img src="./Pointing.png" width="280" alt="Gopal's anime-style developer character pointing"/>
+</p>
+
 ## About Me
 
 I'm Gopal Krishna, a student developing practical data analysis and visualization skills. I enjoy exploring technology, learning new tools, and turning data into useful insights.
