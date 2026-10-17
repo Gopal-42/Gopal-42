@@ -7,6 +7,10 @@
   <img src="./Portrait.png" width="280" alt="Gopal's anime-style developer portrait with laptop"/>
 </p>
 
+<p align="center">
+  <img src="./waving.gif" width="280" alt="Gopal waving at the camera" />
+</p>
+
 
 # Gopal Krishna
 
