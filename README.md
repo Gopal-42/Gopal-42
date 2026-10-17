@@ -1,37 +1,58 @@
-# Hi, I'm Gopal Krishna 👋
+ <div align="center">
 
-### Aspiring Data Analyst | SQL | Power BI | Excel
+<img src="hero.svg?v=2" width="100%" alt="Gopal Krishna — Data Analyst Portfolio"/>
 
-B.Tech CSE student focused on turning raw data into
-meaningful business insights through SQL, Power BI and Excel.
+# Gopal Krishna
 
-## 🛠️ Skills
+### Data Analyst | Excel • SQL • Power BI
 
-- SQL / MySQL
-- Power BI
-- DAX
-- Microsoft Excel
-- Power Query
-- Data Cleaning
-- Data Visualization
-- Business Analysis
+📍 Agra, Uttar Pradesh, India · 🎓 Student
 
-## 📊 Featured Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gopal-krishna-217b80176)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:gopalkrishnabietian@gmail.com)
 
-### 1. Amazon E-Commerce Sales & Operations Analysis
-Excel + Power BI
-→ Sales, fulfilment, cancellation and promotion analysis
+</div>
 
-### 2. Customer Churn & Retention Analysis
-MySQL + SQL + Power BI + DAX
-→ Churn segmentation, customer behaviour and retention analysis
+---
 
-## 🎯 Currently
+<img src="about-life.svg?v=2" width="100%" alt="About me and interests"/>
 
-- Building Data Analytics projects
-- Improving SQL & Power BI
-- Preparing for Data Analyst opportunities
+## About Me
 
-## 🔗 Connect
+I'm Gopal Krishna, a student developing practical data analysis and visualization skills. I enjoy exploring technology, learning new tools, and turning data into useful insights.
 
-[LinkedIn](https://www.linkedin.com/in/gopal-krishna-217b80176)
+---
+
+<img src="stack.svg?v=2" width="100%" alt="Technology toolkit"/>
+
+## Skills
+
+- **Microsoft Excel**
+- **SQL**
+- **Power BI**
+- **Python**
+
+---
+
+## Featured Project
+
+<img src="id-dashboard.svg?v=2" width="100%" alt="Analyst dashboard"/>
+
+### Amazon Sales Analysis Dashboard
+
+An exploratory sales analytics project focused on sales performance, order status, product categories, and business insights.
+
+*Add your project repository link here when it is ready.*
+
+---
+
+## Let's Connect
+
+<img src="connect.svg?v=2" width="100%" alt="Connect with Gopal Krishna"/>
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/gopal-krishna-217b80176)
+- **Email:** [gopalkrishnabietian@gmail.com](mailto:gopalkrishnabietian@gmail.com)
+
+---
+
+<sub>Portfolio built with Markdown and SVG. GitHub may restrict certain SVG animations. Profile statistics will be added only when verified.</sub>
