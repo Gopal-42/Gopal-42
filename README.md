@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./portrait.png" width="280" alt="Gopal's anime-style developer portrait with laptop"/>
+  <img src="./Portrait.png" width="280" alt="Gopal's anime-style developer portrait with laptop"/>
 </p>
 
 
