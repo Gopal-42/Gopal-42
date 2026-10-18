@@ -24,11 +24,14 @@
 
 </div>
 
-## 📊 Featured Project
 
-| Project | Description | Tools |
+## 📊 Featured Projects
+
+| Project | What it is | Stack |
 |:---|:---|:---|
-| **Amazon Sales Analysis Dashboard** | Analyzed sales, order status, promotions and B2B vs B2C performance; created an interactive dashboard. | Excel, SQL, Power BI |
+| [**Amazon Sales Analysis Dashboard**](https://github.com/gopal-42) | Sales performance, order status, promotions, and B2B vs B2C analysis through an interactive dashboard | `Excel` `SQL` `Power BI` |
+| [**Customer Churn Analysis**](https://github.com/gopal-42) | Customer churn analysis to explore retention patterns and identify factors associated with customer churn | `SQL` `Excel` `Power BI` |
+
 
 <div align="center">
 
