@@ -2,12 +2,10 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="./hero (1).svg?v=2" alt="Gopal Krishna — Data Analyst" width="100%"/>
+<img src="./hero.svg?v=2" alt="Gopal Krishna — Data Analyst" width="100%"/>
 
 <br/><br/>
 
-<!-- WAVING ANIMATION -->
-<<img src="./waving.gif" alt="Gopal waving at the camera" width="280"/>>
 
 <br/><br/>
 
@@ -36,7 +34,7 @@
 
 <br/>
 
-## 🌃 My 3D Contribution Graph
+## 🌃 My 3D Contribution City Graph
 
 *Every contribution adds another piece to my GitHub journey.*
 
