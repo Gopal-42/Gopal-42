@@ -2,12 +2,12 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="./hero.svg?v=2" alt="Gopal Krishna — Data Analyst" width="100%"/>
+<img src="./hero (1).svg?v=2" alt="Gopal Krishna — Data Analyst" width="100%"/>
 
 <br/><br/>
 
 <!-- WAVING ANIMATION -->
-<img src="./waving.gif" alt="Gopal waving at the camera" width="280"/>
+<<img src="./waving.gif" alt="Gopal waving at the camera" width="280"/>>
 
 <br/><br/>
 
