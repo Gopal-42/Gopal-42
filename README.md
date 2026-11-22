@@ -31,7 +31,7 @@
 |:---|:---|:---|
 | [**Amazon Sales Analysis Dashboard**](https://github.com/gopal-42) | Sales performance, order status, promotions, and B2B vs B2C analysis through an interactive dashboard | `Excel` `SQL` `Power BI` |
 | [**Customer Churn Analysis**](https://github.com/gopal-42) | Customer churn analysis to explore retention patterns and identify factors associated with customer churn | `SQL` `Excel` `Power BI` |
-
+| [**HR Analytics & Employee Attrition Analysis**](https://github.com/Gopal-42/hr-attrition-analysis) | Employee attrition analysis of 1,470 records to find which segments leave most and which factors (overtime, income, tenure, work-life balance) are associated with attrition, with MySQL analysis and an interactive dashboard | `MySQL` `SQL` `Power BI` `DAX` |
 
 <div align="center">
 
